@@ -20,6 +20,8 @@ tr td img {
 
 .title {
   text-align: center;
+  color: #000;
+  background: #ffe7a6; 
   margin: 40px auto !important;
 }
 .is-spaced {
@@ -139,8 +141,4 @@ td.url {
     transform: scaleY(1);
     -webkit-transform: scaleY(1);
   }
-}
-
-.github-fork-ribbon.right-top:before {
-  background-color: #f80;
 }
