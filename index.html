@@ -178,7 +178,7 @@
         video_show: false,
       },
       mounted() {
-        fetch("./channels.json").then(async (response) => {
+        fetch("https://shen-yu.github.io/iptv-list/channels.json").then(async (response) => {
           const items = await response.json();
           this.items_all = items;
           this.items = this.items_all.filter(
