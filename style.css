@@ -18,11 +18,12 @@ tr td img {
   height: 40px;
 }
 
-.header h1 {color: #000; 
-background: #ffe7a6; 
-width: 100%: 
-padding: 20px; 
-border-bottom: 2px solid grey;}
+.header h1 {
+  color: #000; 
+  background: #ffe7a6; 
+  padding: 20px; 
+  border-bottom: 2px solid grey;
+}
 
 .swal-button {
   background-color: #00d1b2;
