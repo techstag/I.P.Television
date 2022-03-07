@@ -18,15 +18,12 @@ tr td img {
   height: 40px;
 }
 
-.title {
-  text-align: center;
-  color: #000;
-  background: #ffe7a6; 
-  margin: 40px auto !important;
-}
-.is-spaced {
-  margin-bottom: 20px;
-}
+.header h1 {color: #000; 
+background: #ffe7a6; 
+width: 100%: 
+padding: 10px; 
+border-bottom: 2px solid grey;}
+
 .swal-button {
   background-color: #00d1b2;
   border: 1px solid #00d1b2;
