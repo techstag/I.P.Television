@@ -44,6 +44,7 @@ tr:nth-child(even){background-color: #f2f2f2}
   margin-top: 20px;
 }
 td .url {
+  word-break: break-all;
   width: 50%}
 }
 .spinner {
